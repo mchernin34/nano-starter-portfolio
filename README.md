@@ -1,3 +1,3 @@
 ## Starter Portfolio
 
-My first Udacity Front end developer Nanodegree project.
+My first Udacity Frontend Developer Nanodegree project.
